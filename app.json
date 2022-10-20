@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "agic-front-end",
+    "slug": "agic-front-end",
+    "version": "0.1.11",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "net.smsja.ios.agic.advantage-mobile2"
+    },
+    "android": {
+      "package": "net.smsja.ios.agic.advantage_mobile2",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "api_url": "https://app-name-mobil.herokuapp.com"
+    }
+  }
+}

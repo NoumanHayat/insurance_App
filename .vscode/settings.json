@@ -1,0 +1,13 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+      "javascript"
+    ],
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#1D330B",
+      "titleBar.activeBackground": "#29470F",
+      "titleBar.activeForeground": "#F5FCF0"
+    }
+   }
